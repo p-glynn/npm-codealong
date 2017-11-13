@@ -2,7 +2,7 @@
   "name": "npm-codealong-mon",
   "version": "1.0.0",
   "description": "practice with npm",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
