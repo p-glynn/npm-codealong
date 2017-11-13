@@ -1,0 +1,14 @@
+{
+  "name": "npm-codealong-mon",
+  "version": "1.0.0",
+  "description": "practice with npm",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "p-glynn",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
